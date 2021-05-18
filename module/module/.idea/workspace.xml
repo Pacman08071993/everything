@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9748bc1-0215-416b-be1e-87bc46612aac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gJ8HPJUVXfdVonfgeixEPj4YF1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\среды разработки\WebStorm 2019.3.3\untitled\untitled43\js" />
+      <recent name="E:\среды разработки\WebStorm 2019.3.3\untitled\untitled43\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9748bc1-0215-416b-be1e-87bc46612aac" name="Default Changelist" comment="" />
+      <created>1597821246886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597821246886</updated>
+      <workItem from="1597821251444" duration="7488000" />
+      <workItem from="1597829541067" duration="2821000" />
+      <workItem from="1597904118677" duration="23482000" />
+      <workItem from="1597931934721" duration="13522000" />
+      <workItem from="1597985953013" duration="1635000" />
+      <workItem from="1598014372835" duration="10233000" />
+      <workItem from="1598043027663" duration="17449000" />
+      <workItem from="1598086622604" duration="895000" />
+      <workItem from="1598087613210" duration="1294000" />
+      <workItem from="1598093294004" duration="29000" />
+      <workItem from="1598093340944" duration="2000" />
+      <workItem from="1598097789296" duration="88812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Notifications" timestamp="1598087185709">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1598087185709" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598297816167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1598297816167" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1597985861961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1597985861961" />
+  </component>
+</project>
