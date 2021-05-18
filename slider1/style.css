@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 300px;
+    border: 1px solid silver;
+    background-color: blanchedalmond;
+}
+
+.slider{
+    position: relative;
+    width: 400px;
+    height: 20px;
+    border: 1px solid silver;
+    border-radius: 8px;
+    box-shadow: inset  0px 0px 10px 0px rgba(0,0,0,1);
+    background: blanchedalmond;
+}
+
+.scroll{
+    position: absolute;
+    left: 3px;
+    top: -4px;
+    height: 28px;
+    width: 12px;
+    background-color: burlywood;
+    border: 1px solid rgb(78, 71, 62);
+    border-radius: 5px;
+}
